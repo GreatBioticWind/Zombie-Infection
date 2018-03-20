@@ -9,9 +9,8 @@ in the paper "When Zombies Attack!" in the Standard ML language.
 
 The outbreak models implemented are as follows:
     
-*SZR  - base.sml
-
-*SIZR - latentInfection.sml
+* SZR  - base.sml
+* SIZR - latentInfection.sml
 
 ## Getting Started
 
