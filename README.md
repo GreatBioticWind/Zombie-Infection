@@ -33,16 +33,16 @@ top-level print function.
 
 Setup on Ubuntu:
         
-    `apt-get install smlnj`
+    apt-get install smlnj
        
-    `apt-get install mlton`
+    apt-get install mlton
        
 ## Compiling and Running
 
 Use the following commands to compile and run software using MLton:
 
-    `mlton <file_name>`
-    `./<file_name>` 
+    mlton <file_name>
+    ./<file_name> 
 
 ## Credits and Sources
 
