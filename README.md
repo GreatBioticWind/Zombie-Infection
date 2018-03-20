@@ -1,6 +1,7 @@
 # Zombie-Infection
 A SML program that implements basic epidemic models
 
+## Introduction
 CS 355, Lab 1: SML/NJ
 
 This collection of assignments attempt to implement the outbreak models outlined
